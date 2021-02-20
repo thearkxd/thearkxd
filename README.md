@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hakkımda / About Me</h1>
-  <h4>Merhaba, ben Alper. 17 yaşında, kendi halinde bir yazılım öğrencisiyim. Yaklaşık 1 yıl önce Discord botları geliştirerek başladığım yazılım serüvenine Full Stack Web Developing öğrencisi olarak devam ediyorum. Aktif olarak Javascript diline hakimim.</h4>
-  <br><br>
+  <p>Merhaba, ben Alper. 17 yaşında, kendi halinde bir yazılım öğrencisiyim. Yaklaşık 1 yıl önce Discord botları geliştirerek başladığım yazılım serüvenine Full Stack Web Developing öğrencisi olarak devam ediyorum. Aktif olarak Javascript diline hakimim.</p>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
   <br><br>
   <h1>İletişim / Contact</h1>
