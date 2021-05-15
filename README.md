@@ -1,6 +1,6 @@
 # ✨ Hi, I am Theark
 
-Hi my name is, Alper. I'm 16 years old. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development.
+Hi, my name is Alper. I'm 16 years old. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development.
 
 ## ⚡ Contact
 <div align="center">
