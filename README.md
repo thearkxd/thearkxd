@@ -2,6 +2,8 @@
 
 Hi my name is, Alper. I'm 16 years old. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development.
 
+https://komarev.com/ghpvc/?username=thearkxd&color=dc143c
+
 ## ⚡ Contact
 <div align="center">
     <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
