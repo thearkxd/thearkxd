@@ -2,7 +2,7 @@
 
 Hi my name is, Alper. I'm 16 years old. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development.
 
-https://komarev.com/ghpvc/?username=thearkxd&color=dc143c
+<img src="https://komarev.com/ghpvc/?username=thearkxd&color=dc143c"/>
 
 ## ⚡ Contact
 <div align="center">
@@ -16,9 +16,7 @@ https://komarev.com/ghpvc/?username=thearkxd&color=dc143c
 ## 💻 Technologies I Use
 <div align="center">
 <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-<img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
 <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-<img alt="npm" align="center" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
 <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img alt="css3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
 </div>
