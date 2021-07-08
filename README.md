@@ -4,11 +4,14 @@ Hi my name is, Alper. I'm 16 years old. I started software development 1 year ag
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=thearkxd&color=dc143c"/>
-    <br>
-    [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/350976460313329665)](https://discord.com/users/350976460313329665)
 </div>
 
+<div align="center">
+
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/350976460313329665)](https://discord.com/users/350976460313329665)
+
 ## ⚡ Contact
+
 <div align="center">
     <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/thearkxd" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
@@ -18,6 +21,7 @@ Hi my name is, Alper. I'm 16 years old. I started software development 1 year ag
 </div>
 
 ## 💻 Technologies I Use
+
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
     <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
@@ -33,4 +37,3 @@ Hi my name is, Alper. I'm 16 years old. I started software development 1 year ag
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearkxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
-
