@@ -7,8 +7,7 @@ Hi my name is, Alper. I'm 16 years old. I started software development 1 year ag
 </div>
 
 <div align="center">
-
-[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/350976460313329665)](https://discord.com/users/350976460313329665)
+    <a href="https://discord.com/users/350976460313329665" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665"></a>
 
 ## ⚡ Contact
 
