@@ -7,13 +7,13 @@ Hi, my name is Alper and I'm 16. I started software development 1 year ago with 
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/783566602079567942" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/350976460313329665"></a>
+    <a href="https://discord.com/users/783566602079567942" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/783566602079567942"></a>
 </div>
 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/783566602079567942" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/thearkxd" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://discord.gg/UEPcFtytcc" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
