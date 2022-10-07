@@ -1,6 +1,6 @@
 # ✨ Hi, I am Theark
 
-Hi, my name is Alper and I'm 16. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
+Hi, my name is Alper and I'm 17. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=thearkxd&color=dc143c"/>
