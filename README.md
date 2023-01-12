@@ -30,5 +30,5 @@ Hi, my name is Alper and I'm 17. I started software development a few years ago 
 
 ## 📈 Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearkxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=thearkxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
