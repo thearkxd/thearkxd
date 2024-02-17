@@ -1,7 +1,7 @@
 
 <h1 align="center">✨ Hi, I am Theark</h1>
 <h3 align="center">A passionate Full Stack Web Development Student</h3>
-Hi, my name is Alper and I'm 17. I started software development a few years ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer.
+Hi, my name is Alper and I'm 18. I started software development a few years ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer.
 
 <a href="https://discord.com/users/783566602079567942" title="Discord Profile"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/783566602079567942"></a>
 
