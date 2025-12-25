@@ -42,15 +42,6 @@ I build modern, performant, and scalable web applications using up-to-date front
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thearkxd&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
-
----
-
 ## 📌 What I Care About
 
 - Writing **maintainable and readable code**
